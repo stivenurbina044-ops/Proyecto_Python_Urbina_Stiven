@@ -1,0 +1,12 @@
+[
+    {
+        "categoria": "Realismo magico",
+        "libros": [
+            {
+                "titulo": "Cien a\u00f1os de soledad",
+                "autor": "Gabriel Garcia Marquez",
+                "estado": "Disponible"
+            }
+        ]
+    }
+]
